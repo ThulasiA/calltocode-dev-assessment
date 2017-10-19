@@ -1,0 +1,40 @@
+.footer {
+  font-size: 12px;
+  padding-left: 140px;
+  padding-right: 170px;
+}
+
+.footer a {
+  color: #3658A5;
+}
+
+.footer ul li {
+  font-size: 12px;
+  display: inline;
+  padding-right: 10px;
+}
+
+.footer hr {
+  margin-left: 40px;
+}
+
+.footer table {
+  border-spacing: 5px;
+  padding-left: 35px;
+  font-size: 12px;
+}
+
+.footer td {
+  padding-right: 10px;
+}
+
+.footer p {
+  font-size: 10px;
+  margin-top: 20px;
+  padding-left: 40px;
+  opacity: 0.7;
+}
+
+.fa {
+  color: #ADBAD4; 
+}

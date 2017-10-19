@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Helvetica", sans-serif;  
+}
+
+a {
+	text-decoration: none;
+	color: #9CABC5;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.header {
+	background-color: #3B5998;
+  color: #FFF;
+	width: 100%;
+	height: 85px;
+  margin: 0;
+	font-size: 12px;  
+  display: flex;
+}
+
+#logo {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 180px;
+  width: 450px;
+  text-shadow: 0.5px 0.5px rgba(255,255,255, 0.9);   
+  text-transform: lowercase;
+}
+
+.login {
+  margin-left: 150px;
+  margin-top: 15px;   
+}
+
+.header input {
+  width: 142px;
+	height: 20px;
+}
+
+.header table {
+  color: #FFF;
+  font-size: 12px;
+}
+
+.header td {
+  padding-left: 10px;
+}
+
+.header button {
+  background-color: #3C66C4;
+  border: none; 
+  color: #FFF;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.header button:hover {
+  background-color: #3B5998;
+}
